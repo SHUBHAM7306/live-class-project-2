@@ -1,5 +1,5 @@
 ## PROJECT 2
-[live link]()
+[live link](shubham-live-class-project-2.netlify.app)
 
 ---
 Name:- SHUBHAM KUAMAR
